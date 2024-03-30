@@ -1,0 +1,32 @@
+body {
+    background-color: #ffc0cb; /* Light pink background */
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #f08080; /* Pink header */
+    padding: 20px;
+    text-align: center;
+}
+
+h1, h2 {
+    color: #fff; /* White text */
+    margin: 0;
+}
+
+main {
+    padding: 20px;
+}
+
+p {
+    line-height: 1.5;
+}
+
+footer {
+    background-color: #f08080; /* Pink footer */
+    padding: 10px;
+    text-align: center;
+    color: #fff; /* White text */
+}
